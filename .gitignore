@@ -32,4 +32,7 @@ coverage/
 .vscode/
 *.zip
 packages/
+*_report_*.json
+qa_report_*.json
+pentest_report_*.json
 
