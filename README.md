@@ -2,6 +2,34 @@
 
 Production-ready QA framework for AI/LLM systems with comprehensive testing and security validation.
 
+## Description
+
+A comprehensive quality assurance and security testing framework specifically designed for AI/LLM prompt engineering applications. This project provides a complete solution for testing AI-powered systems, covering 8 critical edge cases and OWASP Top 10 security vulnerabilities.
+
+### Key Features
+
+- **AI Text Processing API**: Production-ready Flask application with proper error handling and security controls
+- **8 Comprehensive QA Edge Cases**: Consistency, adversarial, context engineering, evaluation metrics, regression, variant testing, security, and production readiness
+- **OWASP Top 10 Penetration Testing**: Complete security testing suite covering all OWASP Top 10 categories
+- **Software Lifecycle Management**: Structured development → testing → production workflow
+- **Production-Ready**: Includes deployment configurations, monitoring placeholders, and comprehensive documentation
+
+### Use Cases
+
+- Testing AI/LLM applications for reliability and consistency
+- Security validation for AI-powered systems
+- Prompt engineering quality assurance
+- Regression testing for prompt versions
+- Production deployment validation
+
+### Technology Stack
+
+- **Backend**: Flask (Python)
+- **AI Integration**: OpenAI API
+- **Testing**: Custom QA framework + OWASP penetration testing
+- **Configuration**: YAML-based configuration management
+- **Documentation**: Comprehensive guides and architecture docs
+
 ## Project Structure
 
 ```
